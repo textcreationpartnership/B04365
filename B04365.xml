@@ -1,0 +1,430 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Unto his Grace his Majesties High Commissioner, ane [sic] the honourable Estates of Parliament, the petition of George Mackenzie sub-tacksman of the additional and annexed-excise of the northern shires.</title>
+            <author>Mackenzie, George, fl. 1697.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04365</idno>
+            <idno type="STC">Wing M214A</idno>
+            <idno type="STC">ESTC R180248</idno>
+            <idno type="EEBO-CITATION">52614779</idno>
+            <idno type="OCLC">ocm 52614779</idno>
+            <idno type="VID">175965</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04365)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175965)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2757:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Unto his Grace his Majesties High Commissioner, ane [sic] the honourable Estates of Parliament, the petition of George Mackenzie sub-tacksman of the additional and annexed-excise of the northern shires.</title>
+                  <author>Mackenzie, George, fl. 1697.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: print show-through, with loss of text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tax collection --  Scotland --  Early works to 1800.</term>
+               <term>Beer --  Taxation --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb n="1" facs="tcp:175965:1"/>
+            <head>Unto his Grace His Majeſties high Commiſſioner, ane Honourable Eſtates of Parliament, <hi>The PETITION of George Mackenzie</hi> Sub-tacksman of the Addi<g ref="char:EOLhyphen"/>tional and Annexed-Exciſe of the Northern Shires.</head>
+            <opener>Humbly ſheweth,</opener>
+            <p>THat where your Petioner having unhappily engaged himſelf in <hi>July</hi> 1695, in a Tack of the Additional and Annexed Exciſe for the ſeveral Shires benorth <hi>Tay,</hi> for which he was bound by his Tack to pay 19423 <hi>lib. ſter.</hi>
+            </p>
+            <p>After ſubſcribing of his Tack, he immediatly went North to appoint Collectors in the ſeveral Towns and Shires, and to regulat the Brewers; But ſhortly after there happning a great Scarcity in the Northern Countries, Brewing was for the moſt part given up, ſo that is was not poſſible to make up the Tack-duty.</p>
+            <p>Your Petitioner foreſeeing the ſad and calamitus Condition, and the apparent Famine in theſe places, and finding that there was not the leaſt poſſibility for him to make good his Tack; He made Application firſt to the principal Tackſmen, and then to the Lords of Theſaury, who after conſideration of what he had repreſented, gave him a Sift of Execu<g ref="char:EOLhyphen"/>tion, as to one half of his Tack-duty.</p>
+            <p>Thereafter the ſad and deplorable Condition of theſe Countries increaſing, the Coun<g ref="char:EOLhyphen"/>try Brewers were ſo far from continuing to Brew, that there was not Bear to be had to make Meal of to keep in their Lives, ſo notwithſtanding of all the Trouble, Fatigue and Expenſe your Petitioner was brought to, it was not poſſible for him to make one half of his Tack-duty, and yet to ſave himſelf and his Cautioners ſo far as he was able, he has payed in what he has collected, and near one thouſand pound <hi>ſterling</hi> more of his own proper Stock, which goes very near to ruine him, but he yet lying under the Obligation of his Tack to pay 9000 <hi>lib, ſterling,</hi> which he never received, he is neceſſitat humbly to Addreſs the Honourable and High Court of Parliament in this matter.</p>
+            <p>By his Tack it is declared, that if the Accidents of Plague, Famine or War, ſhould fall out, his Tack ſhould fall, and from thence-furth be mull: That there was Famine in theſe places is but too noture, but that the Truth might the more fully appear, there were De<g ref="char:EOLhyphen"/>clarations ſigned by ſeveral Noblemen and Gentlemen in the reſpective Shires, which were preſented to the Lords of Theſaury, and which are hereto ſubjoyned, as a farder evidence of the condition of that Countrey.</p>
+            <p>What was formerly repreſented to the Lords of Theſaury, was found by them to be true and after the Petitioner had made Application to his Majeſty by his Officers of State. His Majeſty was graciouſly pleaſed to recommend the Lords of Theſaury, to make Inquiry anent the true State and Condition of the Countrey, and to make a Report thereof to his Majeſty, which accordingly they did, and found that what your Petitioner had for<g ref="char:EOLhyphen"/>merly repreſented, was true in every Circumſtance.</p>
+            <p>The Petitioner was ſo far from pretending benefit by his Tack, that he has payed near one thouſand pound <hi>ſterling</hi> more than ever he made of it, and the principal Tackſman do very well know, that albeit his Collection was in the time of the greateſt Scarſity and Dearth, yet he has payed 1500 <hi>lib. ſter.</hi> more for the Five Pennies than they can now make effectual in all theſe Shires for the ſix pennies, when there is leſs Scarſity and cheaper Victual.</p>
+            <p>By all which it may evidently appear to his Grace, and honourable Eſtates of Parliament, that the great Loſs and Damnage the petioner has ſuſtained, aroſe from the Dearth and Fa<g ref="char:EOLhyphen"/>mine
+<pb n="2" facs="tcp:175965:2"/>which immediatly followed his Tack, and which was <hi>Caſus fortuitus, &amp; vis divina,</hi> and could not be foreſeen, ſo that he could not reſiſt divine Providence in this matter. And it w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r a Hardſhip above whatever His Majeſty or his Miniſters did, to take the ſmall Stock of the sub-tackſman, who in Zeal to His Majeſties Service, has advanced on his own Credit conſiderably more as he has gotten in, and is content to loſe it; And it is humbly hoped, that your Grace and honourable Eſtates of parliament, in Juſtice and Mercy will conſider his Circumſtances, and ſince none, far leſs a gracious Prince ſhould reap profite by a poor his Circumſtances, and ſince none, far leſs a gracious Prince ſhould reap profite by a poor mans Stock who keeps not one Farthing of the Kings, but willingly and faithfully ſerves him for nothing.</p>
+            <p>
+               <hi>May it therefore pleaſe your Grace and honourable Estates of Parliament, to con<g ref="char:EOLhyphen"/>ſider the premiſſes, and ſeing your petitioner relyed much upon the Quality of his Tack and that his taking Inſtruments againſt the principal Tacksman, and proving the Con<g ref="char:EOLhyphen"/>dition of the Countrey by ſo pregnant Evidences, was ſufficient to exoner him; That therefore your Grace and Lordſhips would be pleaſed to declare his Tack a Collection, with this Qualty, that albeit his Collection be leſs than the Sum of</hi> 10423 lib. ſterling, <hi>which he has already payed, yet the petitioner is to repeat no part thereof, but the declar<g ref="char:EOLhyphen"/>ing of his Tack a Collection, is only to this effect, that Inquiry may be made if his Col<g ref="char:EOLhyphen"/>lection (his neceſſar Charges being deduced; exceeds the Sum already paſed; Or o<g ref="char:EOLhyphen"/>therwiſe, if your Grace and Honourable Eſtates of parliament think it not convenient to o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Tack that you would be pleaſed to exoner him of the</hi> 9000 lib. ſter. <hi>for which he has got ſo frequent Siſts, and which is the juſt proportion, conform to the late Re<g ref="char:EOLhyphen"/>port from the Exchequer to His Majeſty.</hi> And your Petitioner ſhall ever pray.</p>
+         </div>
+         <div type="declaration">
+            <head>
+               <hi>DECLARATION</hi> In Favours of the <hi>BREWERS</hi> and <hi>TACKSMEN</hi> of the <hi>EXCISE,</hi> with the Tenor of the <hi>Repreſentation</hi> given in by the Noblemen, Gentlemen, and Magiſtrats of the <hi>North Shires,</hi> concerning the Dearth and Famine in their Shires and Towns, with the Reaſons why the Brewers have given up, and the Exciſe cannot be made Effectual; <hi>Viz.</hi>
+            </head>
+            <p>WE the Noblemen, Barons and Heretors of the Shires of <hi>Angus, Merns, Aber<g ref="char:EOLhyphen"/>deen, Bamff,</hi> and <hi>Be North;</hi> Conſidering that <hi>George Mackenzie</hi> Subtackſ<g ref="char:EOLhyphen"/>man of the Annexed and Additional Exciſe, has ſeveral Proceſſes depend<g ref="char:EOLhyphen"/>ing before the Commiſſioners of Supply and Exciſe, againſt ſeveral of our Tennents who have been in uſe of brewing upon our Ground, for their giving over that Trade of Brewing at this time: <hi>Do therefore</hi> Teſtifie and Declare, That there was an abſolute ne<g ref="char:EOLhyphen"/>ceſſity for their giving over, by reaſon of the want of Malt and Bear, and the Dearth there<g ref="char:EOLhyphen"/>of this year; the price of the Malt and Bear giving with us 12 of 13 <hi>lib. Scots</hi> to <hi>Martinmas</hi> next, which is more than triple value of former years, being occaſioned by the laſt years bad Cropt, and the unnatural Storms of Rain which fell out in Harveſt laſt, and our Ten<g ref="char:EOLhyphen"/>nents being in Arrear to us the full half part of their Rent in ſeveral places, ſo that by theſe Calamities the Brewers have given over, and generally quite broke, and the few that does Brew are not able to pay the foreſaid price for the ſaid Malt and Bear, with the double Ex<g ref="char:EOLhyphen"/>ciſe; ſo that for this Seaſon there is no hope of Brewing, and the ſcarcity and badneſs of the laſt years Cropt, has occaſioned not only Dearth, but Famine to all the Poor, who are dy<g ref="char:EOLhyphen"/>ing in ſeveral parts for Want, and a great part of the Land is not ſowen for want of Seed, ſo that we are neceſſitat to diſcharge Brewing in ſeveral places: And to Order the making the Meal of Bear, and to keep up the famine for the uſe of the Poor, that are in a ſtarving Condition. The like Scarcity and Want not being ſeen for many Ages. This We in all Humility, Repreſent to the Right Honourable the Lords of His Majeſties Theaſaury and Exchequer, praying them to conſider the Condition of the Brewers and Tackſmen, and to forbid their Farmers to moleſt the ſaid Brewers on their deſiſting from Brewing, by rea<g ref="char:EOLhyphen"/>ſon of the foreſaids ſad Calamities, and to Diſcharge any Trouble to be given them on that account, that the Poor may have Bread, and not Starve, which even this will hardly pre<g ref="char:EOLhyphen"/>vent.</p>
+            <div type="list_of_subscribers">
+               <pb n="3" facs="tcp:175965:2"/>
+               <head>The Names and Deſignations of the <hi>Subſcribers,</hi> as follows, <hi>viz.</hi>
+               </head>
+               <list>
+                  <head>
+                     <hi>For</hi> Aberdeen-ſhire.</head>
+                  <item>
+                     <hi>EArl of</hi> Errol,</item>
+                  <item>
+                     <hi>Earl of</hi> Kintore,</item>
+                  <item>
+                     <hi>Lord</hi> Pitſligo,</item>
+                  <item>
+                     <hi>Sir</hi> Thomas Burnet <hi>of</hi> Lyes,</item>
+                  <item>
+                     <hi>Sir</hi> John Forbes <hi>of</hi> Craigievar,</item>
+                  <item>Samuel Forbes <hi>of</hi> Foyeran,</item>
+                  <item>Andrew Frazer <hi>of</hi> Kinmundie <hi>Sheriff-Deput,</hi>
+                  </item>
+                  <item>James Gordon <hi>of</hi> Seatoun,</item>
+                  <item>Robert Roſs <hi>of</hi> Auchloſſen,</item>
+                  <item>John <g ref="char:V">Ʋ</g>dney <hi>of that Ilk,</hi>
+                  </item>
+                  <item>Roderick Forbes <hi>of</hi> Brux,</item>
+                  <item>George Keith <hi>of</hi> Creichy,</item>
+                  <item>James Moor <hi>of</hi> Stonywood,</item>
+                  <item>John <g ref="char:V">Ʋ</g>dney <hi>of</hi> Newtyle.</item>
+               </list>
+               <list>
+                  <head>For the Town of <hi>Aberdeen.</hi>
+                  </head>
+                  <item>Robert Cruckſhank <hi>of</hi> Banchry, <hi>provoſt.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Bamff-Shire.</head>
+                  <item>
+                     <hi>EArl of</hi> Finlator,</item>
+                  <item>
+                     <hi>the Lord</hi> Boyne,</item>
+                  <item>James Abernethy <hi>of</hi> Birkenbog,</item>
+                  <item>Alexander Ogilvie <hi>of</hi> Foirgland,</item>
+                  <item>William Bumbar <hi>of</hi> Durn,</item>
+                  <item>Alexander Gairden <hi>of</hi> Troup,</item>
+                  <item>George L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſlie <hi>of</hi> Burdsbank,</item>
+                  <item>Alexander Hay <hi>of</hi> Arnbath.</item>
+               </list>
+               <list>
+                  <head>
+                     <hi>Angus</hi> and <hi>Kincardine-ſhires.</hi>
+                  </head>
+                  <item>DAvid Grahame <hi>of</hi> Fintrey,</item>
+                  <item>Hercules Scot <hi>of</hi> Brothertoun,</item>
+                  <item>
+                     <hi>Mr.</hi> Robert Burnet <hi>of</hi> Glenbervie,</item>
+                  <item>James Scot <hi>of</hi> Logie,</item>
+                  <item>William Barclay <hi>of</hi> Balmagequand.</item>
+               </list>
+               <list>
+                  <head>
+                     <hi>Town</hi> and <hi>Shire</hi> of <hi>Inverneſs.</hi>
+                  </head>
+                  <item>GEorge Cuthbert <hi>of</hi> Castlehill,</item>
+                  <item>William Robertſon <hi>of</hi> Inches,</item>
+                  <item>James Mackintoſh <hi>of</hi> Termitt,</item>
+                  <item>Angus Mackintoſh <hi>of</hi> Kelachie,</item>
+                  <item>William Duff <hi>of</hi> Diple,</item>
+                  <item>Hugh Frazer <hi>of</hi> Belladrum,</item>
+                  <item>William Baillie <hi>of</hi> Dr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nzeain,</item>
+                  <item>William Baillie <hi>Commiſſar of</hi> Inverneſs,</item>
+                  <item>John Grant <hi>of</hi> Corimonie.</item>
+               </list>
+               <list>
+                  <head>Machpherſon <hi>of</hi> Clunie,</head>
+                  <item>
+                     <hi>Mr.</hi> Daniel Polſon <hi>of</hi> Kinmyle, <hi>Sheriff-deput</hi> of <hi>Inverneſs,</hi>
+                  </item>
+                  <item>William Frazer <hi>of</hi> Erchert,</item>
+                  <item>Alexander Frazer <hi>of</hi> 
+                     <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap>
+                  </item>
+                  <item>James Baillie <hi>of</hi> 
+                     <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap>
+                  </item>
+               </list>
+               <list>
+                  <head>Cumming <hi>of</hi> Dalſhanie</head>
+                  <item>Hugh Robertſon, <hi>Provoſt,</hi>
+                  </item>
+                  <item>James Macklain <hi>Baillie,</hi>
+                  </item>
+                  <item>Alexander Duff <hi>of</hi> Drummor <hi>Baillie.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Cullen Town</head>
+                  <item>JOhn Baird <hi>Baillie,</hi>
+                  </item>
+                  <item>Patrick Sanders Baillie</item>
+                  <item>Thomas Murray <hi>Clerk</hi>
+                  </item>
+                  <item>John Lorimer <hi>Counſellor</hi>
+                  </item>
+                  <item>William Strachan <hi>Counſellor</hi>
+                  </item>
+                  <item>William Wall<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ce <hi>Councellor.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Bamff Town</head>
+                  <item>ALexander Leſly <hi>of</hi> Kinninvie <hi>Provoſt,</hi>
+                  </item>
+                  <item>Walter Stuart <hi>late Provoſt.</hi>
+                  </item>
+                  <item>Robert Sanders <hi>Baillie</hi>
+                  </item>
+                  <item>Alexander Wallace <hi>Baillie</hi>
+                  </item>
+                  <item>James Ogilvie <hi>Baillie,</hi>
+                  </item>
+                  <item>George Leith <hi>late Baillie</hi>
+                  </item>
+                  <item>William Scot <hi>Dean of Guild,</hi>
+                  </item>
+                  <item>James perik <hi>Theſaurer</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="addition">
+               <head>The Declaration of North <hi>Inverneſs, Roſs</hi> and <hi>Cromarty,</hi> has this Addition, <hi>&amp;c.</hi>
+               </head>
+               <p>LIkewiſe, We declare, that by reaſon of the badneſs of the laſt years Cropt, there is ſuch Scarſity of Beer and Malt here, that there is a great Dearth and Famine a<g ref="char:EOLhyphen"/>mongſt our Commons, and in ſeveral places, the Land is not Sowen for want of Seed, and all this Summer they could hardly get Beer to buy to make Meal thereof, and we are neceſſitate to buy up Beer wherever we can get it, and furniſh them, to make Meal thereof, for the uſe of the poor that are in a Starving Condition. This we in all humility repreſent to the Right Honourable the Lords Commiſſioners of His Majeſties Theſaury and Exchequer, to conſider the Condition of the Tackſmen and Brewers, and to allow the Brewers their deſiſting that the Poor and Commons may have Bread and not Starve, which we are afraid of, if GOD in his Infinit Mercy prevent it not.</p>
+               <pb n="4" facs="tcp:175965:3"/>
+               <list>
+                  <item>SIR <hi>John Monro</hi> of <hi>Foulis</hi>
+                  </item>
+                  <item>Sir <hi>Alexander Mackenzie</hi> of <hi>Coul</hi>
+                  </item>
+                  <item>
+                     <hi>Hugh Monro</hi> Younger of <hi>Foulis</hi>
+                  </item>
+                  <item>
+                     <hi>David Monro</hi> of <hi>Kiltearn,</hi>
+                  </item>
+                  <item>
+                     <hi>David Monro</hi> of <hi>Teaninich</hi>
+                  </item>
+                  <item>
+                     <hi>William Monro</hi> of <hi>Teanerd,</hi>
+                  </item>
+                  <item>
+                     <hi>George Mouro</hi> of <hi>Culrain,</hi>
+                  </item>
+                  <item>
+                     <hi>John Beaton</hi> of <hi>Calwaskea,</hi>
+                  </item>
+                  <item>Sir <hi>Donald Bayne</hi> of <hi>Tulloch,</hi>
+                  </item>
+                  <item>
+                     <hi>Alexander Forreſter</hi> of <hi>Culnald,</hi>
+                  </item>
+                  <item>
+                     <hi>Colin Mabkenzie</hi> Elder of <hi>Redcaſtle.</hi>
+                  </item>
+                  <item>
+                     <hi>Rod. Mackenzie</hi> Younger of <hi>Redcaſtle</hi>
+                  </item>
+                  <item>
+                     <hi>Rod. Mackenzie</hi> of <hi>Culcovie.</hi>
+                  </item>
+                  <item>
+                     <hi>Alexander Maskenzie</hi> younger of <hi>Dachmaluag:</hi>
+                  </item>
+                  <item>
+                     <hi>David Monro</hi> of <hi>Dalmoir,</hi>
+                  </item>
+                  <item>
+                     <hi>John Roſs</hi> of <hi>Achnaloch,</hi>
+                  </item>
+                  <item>
+                     <hi>William Roſs</hi> of <hi>Aldy,</hi>
+                  </item>
+                  <item>
+                     <hi>Alexander Roſs</hi> of <hi>Pitherry,</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Cromarty Shire</head>
+                  <item>
+                     <hi>Kenneth Mackenzie</hi> of <hi>Cromarty</hi>
+                  </item>
+                  <item>
+                     <hi>Alexander Clunies</hi> of <hi>Neilſtoun</hi>
+                  </item>
+                  <item>
+                     <hi>Alexander <g ref="char:V">Ʋ</g>rquhart</hi> of <hi>Newhall</hi>
+                  </item>
+                  <item>
+                     <hi>John <g ref="char:V">Ʋ</g>rquhart</hi> of <hi>Craighouſe</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>The Burgh of <hi>Tayne</hi>
+                  </head>
+                  <item>
+                     <hi>Walter Roſs</hi> Provoſt of <hi>Tayne</hi>
+                  </item>
+                  <item>
+                     <hi>John Roſs</hi> late Provoſt of <hi>Tayne</hi>
+                  </item>
+                  <item>
+                     <hi>Alexander Hay</hi> Baillie of <hi>Tayne,</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>The Burgh of <hi>Fortroſs</hi>
+                  </head>
+                  <item>
+                     <hi>Thomas Forbes</hi> Balilie of <hi>Fortroſs.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="addition">
+               <head>The Declaration by the Shire of <hi>Cathneſs</hi> has this Addition, viz.</head>
+               <p>WE the Commiſſioners of Supplie, and other Heritors of the Shire of <hi>Caithneſe,</hi> un<g ref="char:EOLhyphen"/>derſubſcribing, Do hereby Teſtifie and Declare, that the Scarcity of Victual, and eſpecially of Bear in the ſaid Shire, for the Crops 1695. and 1696. is, and has been ſuch, that none living among us have ſeen or felt a greater Famine, and that many have ſtarved for want of Bread; So that the Exciſe cannot make near the half of what formerly it did, by reaſon of the foreſaid Famine.</p>
+               <list>
+                  <item>Sir <hi>George Sinclair</hi> of <hi>Clyth</hi>
+                  </item>
+                  <item>
+                     <hi>David Sinclair</hi> of <hi>Freſwick,</hi>
+                  </item>
+                  <item>
+                     <hi>Alexander Sinclair</hi> of <hi>Blebſter</hi>
+                  </item>
+                  <item>
+                     <hi>James Sinclair</hi> of <hi>Forſe</hi>
+                  </item>
+                  <item>
+                     <hi>William Suther and</hi> of <hi>Gees</hi>
+                  </item>
+                  <item>
+                     <hi>William Cunninghame</hi> of <hi>Reaſbo</hi>
+                  </item>
+                  <item>
+                     <hi>John Sinclair</hi> of <hi>Stirkock,</hi>
+                  </item>
+                  <item>
+                     <hi>James Murray</hi> of <hi>Claden.</hi>
+                  </item>
+                  <item>
+                     <hi>Patrick Murrray</hi> of <hi>Scots-Cadel.</hi>
+                  </item>
+                  <item>
+                     <hi>Alexander Williamſon</hi> of <hi>Borſeskirk.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>The Burgh of <hi>THORSO</hi>
+                  </head>
+                  <item>
+                     <hi>Alexander Rorieſon</hi> Baillie of <hi>Thorſo</hi>
+                  </item>
+                  <item>
+                     <hi>John Swanſon</hi> Baillie of <hi>Thorſo</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>The Burgh of <hi>WEEK,</hi>
+                  </head>
+                  <item>
+                     <hi>James Doul</hi> Baille of <hi>Week</hi>
+                  </item>
+               </list>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
